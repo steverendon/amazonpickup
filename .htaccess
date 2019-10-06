@@ -1,0 +1,4 @@
+RewriteEngine On 
+RewriteCond %{SERVER_PORT} 80
+RewriteCond %{HTTP_HOST} ^(www\.)?amazonprime\.com.co
+RewriteRule ^(.*)$ https://www.amazonprime.com.co/$1 [R,L]

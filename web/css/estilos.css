@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
+*{font-family: verdana}
+.logo{width: 200px}
+.boton{background: #FFA724;border-radius:28px;padding: 5px 20px 5px 20px;font-family: 'Merriweather Sans', sans-serif;font-weight: 700;color: #fff;border: none;cursor: pointer}
+.cuadros{width: 200px;margin: 10px}
+.titulo-cuadros{color:#009fe3;font-weight: 900;text-align: center;margin: 10px}
+.fondo-preguntas{background: #D8D7D6;padding: 10px}
+.fondo-preguntas h4{text-align: center}
+.titulo-preguntas{font-weight: 900;color: #000;text-align: left;}
+.lista{font-size: 1em}
+.tit1{color: #232F3E;font-size: 0.9em}
+.tit2{color: #09A7E0;font-weight: 900;font-size: 0.9em}
+.img-preguntas{width: 130px}
+.contenido{text-align: left;color: #000;padding: 10px}
+.contenido a{font-weight: 900;color: #000}
+.margen{margin: 10px 0px;min-height: 220px}
+.pre{color: #0000ff;cursor: pointer}
+.contener{padding: 0% 10%}
+.precio{font-size: 2em;font-weight: 900}
+.mas-preguntas{padding: 10px}
+.footer-tit{background: #484D4C;text-align: center;color: #fff}
+.footer-1{background: #353A39;padding-top: 2%}
+.footer-2{background: #1A1D1C;text-align: center;padding: 3%}
+.centro{text-align: justify}
